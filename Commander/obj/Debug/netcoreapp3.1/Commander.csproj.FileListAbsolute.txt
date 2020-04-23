@@ -48,3 +48,5 @@ C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcore
 C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\obj\Debug\netcoreapp3.1\Commander.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
