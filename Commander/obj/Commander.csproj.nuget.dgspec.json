@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\Commander\\Commander.csproj": {}
+    "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\commander\\Commander.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\Commander\\Commander.csproj": {
+    "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\Commander\\Commander.csproj",
+        "projectUniqueName": "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\Commander\\Commander.csproj",
+        "projectPath": "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\Commander\\obj\\",
+        "outputPath": "C:\\Users\\Korisnik\\Desktop\\Ucenje\\dotnet3.1mvcRestApi\\commander\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
