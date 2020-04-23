@@ -50,3 +50,7 @@ C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcore
 C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\obj\Debug\netcoreapp3.1\Commander.csproj.CopyComplete
 C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\Ucenje\dotnet3.1mvcRestApi\commander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
