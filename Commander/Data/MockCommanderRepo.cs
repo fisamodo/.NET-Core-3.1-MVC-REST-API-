@@ -8,6 +8,10 @@ namespace Commander.Data
         public void CreateCommand(Command cmd)
         {
             throw new System.NotImplementedException();
+        } 
+        public void UpdateCommand(Command cmd)
+        {
+            throw new System.NotImplementedException();
         }
         public IEnumerable<Command> GetAllCommands()
         {
